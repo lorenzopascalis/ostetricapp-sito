@@ -1,0 +1,14 @@
+{
+  "name": "OstetricApp",
+  "short_name": "OstetricApp",
+  "lang": "it",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#006f85",
+  "icons": [
+    { "src": "icona-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icona-1024.png", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}
